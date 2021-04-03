@@ -12,6 +12,7 @@
 *://codeclimate.com/*
 *://codegear.dev/*
 *://codehero.jp/*
+*://coderoad.ru/*
 *://csharp.hotexamples.com/*
 *://fantashit.com/*
 *://issuehub.io/*
