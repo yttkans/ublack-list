@@ -1,4 +1,10 @@
+*://*.appmedia.jp/*
+*://*.cloud6.net/*
 *://*.developreference.com/*
+*://*.game8.jp/*
+*://*.gamerch.com/*
+*://*.gamewith.jp/*
+*://*.kamigame.jp/*
 *://*.ojit.com/*
 *://*.uwenku.com/*
 *://androidx.tech/*
@@ -16,8 +22,6 @@
 *://csharp.hotexamples.com/*
 *://fantashit.com/*
 *://issuehub.io/*
-*://ja.ojit.com/*
-*://ja.uwenku.com/*
 *://jpcloud.net/*
 *://kotaeta.com/*
 *://living-sun.com/*
