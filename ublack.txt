@@ -12,14 +12,18 @@
 *://ask.xiaolee.net/*
 *://askandroidquestions.com/*
 *://askdev.io/*
+*://bbs.csdn.net/*
+*://bleepcoder.com/*
 *://bugsdb.com/*
 *://code-examples.net/*
 *://code.i-harness.com/*
 *://codeclimate.com/*
+*://codedaily.io/*
 *://codegear.dev/*
 *://codehero.jp/*
 *://coderoad.ru/*
 *://csharp.hotexamples.com/*
+*://events.jianshu.io/*
 *://fantashit.com/*
 *://issuehub.io/*
 *://jpcloud.net/*
@@ -36,6 +40,7 @@
 *://projobs.tistory.com/*
 *://python5.com/*
 *://quabr.com/*
+*://question-it.com/*
 *://sodocumentation.net/*
 *://stackoom.com/*
 *://stackoverrun.com/*
@@ -45,7 +50,6 @@
 *://www.366service.com/*
 *://www.code-adviser.com/*
 *://www.coder.work/*
-*://www.gitmemory.com/*
 *://www.iditect.com/*
 *://www.javaer101.com/*
 *://www.jtdz-solenoids.com/*
@@ -58,7 +62,9 @@
 *://www.tfzx.net/*
 *://www.thetopsites.net/*
 *://www.xspdf.com/*
+/^https?:\/\/(www\.)?gitmemory/
 /^https?:\/\/coderoad\./
 /^https?:\/\/qastack\./
 /^https?:\/\/www\.generacodice\./
+/^https?:\/\/www\.it-mure/
 /^https?:\/\/www\.it-swarm/
