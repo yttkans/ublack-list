@@ -4,6 +4,7 @@
 *://*.game8.jp/*
 *://*.gamerch.com/*
 *://*.gamewith.jp/*
+*://*.hotexamples.com/*
 *://*.kamigame.jp/*
 *://*.ojit.com/*
 *://*.uwenku.com/*
@@ -22,10 +23,10 @@
 *://codegear.dev/*
 *://codehero.jp/*
 *://coderoad.ru/*
-*://csharp.hotexamples.com/*
 *://events.jianshu.io/*
 *://fantashit.com/*
 *://issuehub.io/*
+*://ja.ntcdoon.org/*
 *://jpcloud.net/*
 *://kotaeta.com/*
 *://living-sun.com/*
@@ -50,6 +51,7 @@
 *://www.366service.com/*
 *://www.code-adviser.com/*
 *://www.coder.work/*
+*://www.codota.com/*
 *://www.iditect.com/*
 *://www.javaer101.com/*
 *://www.jtdz-solenoids.com/*
@@ -58,6 +60,7 @@
 *://www.nicovideo.me/*
 *://www.nicozon.net/*
 *://www.nuomiphp.com/*
+*://www.programcreek.com/*
 *://www.semicolonworld.com/*
 *://www.tfzx.net/*
 *://www.thetopsites.net/*
