@@ -8,6 +8,9 @@
 *://*.kamigame.jp/*
 *://*.ojit.com/*
 *://*.uwenku.com/*
+*://5.9.10.113/*
+*://altema.jp/*
+*://androidx.de/*
 *://androidx.tech/*
 *://apkde.net/*
 *://ask.xiaolee.net/*
@@ -16,6 +19,7 @@
 *://bbs.csdn.net/*
 *://bleepcoder.com/*
 *://bugsdb.com/*
+*://cloudstack.ninja/*
 *://code-examples.net/*
 *://code.i-harness.com/*
 *://codeclimate.com/*
@@ -23,8 +27,11 @@
 *://codegear.dev/*
 *://codehero.jp/*
 *://coderoad.ru/*
+*://csharp.hotexamples.com/*
 *://events.jianshu.io/*
 *://fantashit.com/*
+*://gitmemory.com/*
+*://h1g.jp/*
 *://issuehub.io/*
 *://ja.ntcdoon.org/*
 *://jpcloud.net/*
@@ -48,11 +55,16 @@
 *://stackru.com/*
 *://tutorialmore.com/*
 *://vim.programmingpedia.net/*
+*://wobumang.cn/*
 *://www.366service.com/*
 *://www.code-adviser.com/*
+*://www.codenong.com/*
 *://www.coder.work/*
 *://www.codota.com/*
+*://www.fixes.pub/*
+*://www.gitmemory.com/*
 *://www.iditect.com/*
+*://www.it-mure.jp.net/*
 *://www.javaer101.com/*
 *://www.jtdz-solenoids.com/*
 *://www.nicochart.jp/*
@@ -61,6 +73,7 @@
 *://www.nicozon.net/*
 *://www.nuomiphp.com/*
 *://www.programcreek.com/*
+*://www.secn.net/*
 *://www.semicolonworld.com/*
 *://www.tfzx.net/*
 *://www.thetopsites.net/*
