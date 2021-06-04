@@ -74,7 +74,6 @@
 *://www.nicozon.net/*
 *://www.nuomiphp.com/*
 *://www.programcreek.com/*
-*://www.py4u.net/*
 *://www.secn.net/*
 *://www.semicolonworld.com/*
 *://www.tfzx.net/*
@@ -86,4 +85,4 @@
 /^https?:\/\/qastack\./
 /^https?:\/\/www\.generacodice\./
 /^https?:\/\/www\.it-mure\./
-/^https?:\/\/www\.it-swarm\./
+/^https?:\/\/www\.it-swarm[-.]/
