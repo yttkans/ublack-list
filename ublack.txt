@@ -15,6 +15,7 @@
 *://ask.xiaolee.net/*
 *://askandroidquestions.com/*
 *://askdev.io/*
+*://base64.work/*
 *://bbs.csdn.net/*
 *://bleepcoder.com/*
 *://bugsdb.com/*
@@ -74,6 +75,7 @@
 *://www.nicozon.net/*
 *://www.nuomiphp.com/*
 *://www.programcreek.com/*
+*://www.programmersought.com/*
 *://www.secn.net/*
 *://www.semicolonworld.com/*
 *://www.tfzx.net/*
