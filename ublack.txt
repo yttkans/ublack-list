@@ -84,7 +84,9 @@
 *://system2.wiki/*
 *://techacademy.jp/*
 *://tutorialmore.com/*
+*://vimsky.com/*
 *://wobumang.cn/*
+*://zhuanlan.zhihu.com/*
 /^https?:\/\/(www\.)?gitmemory\./
 /^https?:\/\/(www\.)?it-mure\./
 /^https?:\/\/(www\.)?it-swarm[-.]/
