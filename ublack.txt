@@ -6,6 +6,7 @@
 *://*.codenong.com/*
 *://*.coder.work/*
 *://*.codota.com/*
+*://*.coredump.biz/*
 *://*.csblackchamber.com/*
 *://*.csdn.net/*
 *://*.developreference.com/*
@@ -35,7 +36,9 @@
 *://*.sejuku.net/*
 *://*.semicolonworld.com/*
 *://*.tfzx.net/*
+*://*.thercb.org/*
 *://*.thetopsites.net/*
+*://*.tistory.com/*
 *://*.uwenku.com/*
 *://*.xspdf.com/*
 *://5.9.10.113/*
@@ -51,14 +54,17 @@
 *://cloudstack.ninja/*
 *://code-examples.net/*
 *://code.i-harness.com/*
+*://codechacha.com/*
 *://codeclimate.com/*
 *://codedaily.io/*
 *://codegear.dev/*
 *://codehero.jp/*
 *://codersatellite.com/*
+*://developer.android.google.cn/*
 *://events.jianshu.io/*
 *://exerror.com/*
 *://fantashit.com/*
+*://githubmemory.com/*
 *://h1g.jp/*
 *://issuehub.io/*
 *://jpcloud.net/*
@@ -73,7 +79,6 @@
 *://openbase.io/*
 *://progi.pro/*
 *://programmerstart.com/*
-*://projobs.tistory.com/*
 *://python5.com/*
 *://quabr.com/*
 *://question-it.com/*
@@ -86,6 +91,7 @@
 *://tutorialmore.com/*
 *://vimsky.com/*
 *://wobumang.cn/*
+*://www.python2.net/*
 *://zhuanlan.zhihu.com/*
 /^https?:\/\/(www\.)?gitmemory\./
 /^https?:\/\/(www\.)?it-mure\./
