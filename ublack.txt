@@ -26,8 +26,6 @@
 *://*.ntcdoon.org/*
 *://*.nuomiphp.com/*
 *://*.ojit.com/*
-*://*.programcreek.com/*
-*://*.programmingpedia.net/*
 *://*.projectbackpack.org/*
 *://*.py4u.net/*
 *://*.secn.net/*
@@ -98,7 +96,6 @@
 *://overcoder.net/*
 *://pretagteam.com/*
 *://progi.pro/*
-*://programtalk.com/*
 *://pydigger.com/*
 *://python5.com/*
 *://pythonq.com/*
@@ -160,7 +157,7 @@
 /^https?:\/\/(\w+\.)?code/
 /^https?:\/\/(\w+\.)?gitmemory\./
 /^https?:\/\/(\w+\.)?it-/
-/^https?:\/\/(\w+\.)?programmer/
+/^https?:\/\/(\w+\.)?program/
 /^https?:\/\/(\w+\.)?qa/
 /^https?:\/\/(\w+\.)?titanwolf\./
 /^https?:\/\/androidx\./
