@@ -235,6 +235,8 @@
 /^https?:\/\/(\w+\.)?python\w\./
 /^https?:\/\/(\w+\.)?qa/
 /^https?:\/\/(\w+\.)?searchcode\./
-/^https?:\/\/(\w+\.)?stack\w{2,7}\./
-/^https?:\/\/(\w+\.)?stack\w{9,12}\./
+/^https?:\/\/(\w+\.)?stack/
 /^https?:\/\/(\w+\.)?titanwolf\./
+@*://codepen.io/*
+@*://stackexchange.com/*
+@*://stackoverflow.com/*
