@@ -120,7 +120,6 @@
 *://nicotter.net/*
 *://nipponkaigi.net/*
 *://o9wg8q.monster/*
-*://openbase.io/*
 *://ostack.cn/*
 *://pretagteam.com/*
 *://progi.pro/*
@@ -134,7 +133,9 @@
 *://reactnativeforyou.com/*
 *://rent.4florista.ru/*
 *://risposta.org/*
+*://ru-code-android.livejournal.com/*
 *://runebook.dev/*
+*://rusutikaa.github.io/*
 *://s-pace.github.io/*
 *://saka.docsio.net/*
 *://samplecodebank.blogspot.com/*
@@ -198,6 +199,7 @@
 *://www.naukri.com/*
 *://www.netjstech.com/*
 *://www.ohandroid.com/*
+*://www.rcyd.net/*
 *://www.shangmayuan.com/*
 *://www.tabnine.com/*
 *://www.tech-wiki.online/*
@@ -205,6 +207,8 @@
 *://www.thinbug.com/*
 *://www.ti-enxame.com/*
 *://www.twblogs.net/*
+*://www.web-dev-qa-db-ja.com/*
+*://www.webpuroguramingu-zhi-wen-ying-dashisutemu.com/*
 *://www.wenyanet.com/*
 *://www.wikipe.wiki/*
 *://www.wikiwand.com/*
@@ -231,6 +235,7 @@
 /^https?:\/\/(\w+\.)?java\w+\./
 /^https?:\/\/(\w+\.)?jianshu\./
 /^https?:\/\/(\w+\.)?jp[a-z]+/
+/^https?:\/\/(\w+\.)?openbase\./
 /^https?:\/\/(\w+\.)?program/
 /^https?:\/\/(\w+\.)?python\w\./
 /^https?:\/\/(\w+\.)?qa/
