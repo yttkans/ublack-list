@@ -240,6 +240,7 @@
 @*://github.co.jp/*
 @*://github.com/*
 @*://github.io/*
+@*://ja.m.wikipedia.org/*
 @*://ja.wikipedia.org/*
 @*://stackexchange.com/*
 @*://stackoverflow.com/*
