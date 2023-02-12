@@ -235,12 +235,15 @@
 /^https?:\/\/[^/]*stack[^/]*/
 /^https?:\/\/[^/]*tutorial[^/]*/
 /^https?:\/\/ja\.[^/]*/
+@*://bumptech.github.io/*
 @*://codepen.io/*
+@*://docs.github.com/*
 @*://git-scm.com/*
 @*://github.co.jp/*
 @*://github.com/*
 @*://github.io/*
 @*://ja.m.wikipedia.org/*
 @*://ja.wikipedia.org/*
+@*://square.github.io/*
 @*://stackexchange.com/*
 @*://stackoverflow.com/*
