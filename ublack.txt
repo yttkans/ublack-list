@@ -49,6 +49,7 @@
 *://article.itxueyuan.com/*
 *://asahi.darumasangakoronda.com/*
 *://base64.work/*
+*://blog.esuteru.com/*
 *://books.google.co.jp/*
 *://bugsdb.com/*
 *://bwdinterfaith.org.uk/*
@@ -90,6 +91,7 @@
 *://its401.com/*
 *://jablogs.com/*
 *://jar-download.com/*
+*://jin115.com/*
 *://johnnn.tech/*
 *://jp.emptyq.net/*
 *://kotaeta.com/*
